@@ -1,0 +1,1 @@
+web: gunicorn yumaf.wsgi --log-file -r
